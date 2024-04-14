@@ -187,25 +187,3 @@
         transform: scale(1);
     }
 }
-#skills {
-    background-color: #ff9dcf;
-    padding: 50px 0;
-}
-
-#skills .div-text {
-    text-align: end;
-}
-
-#skills h2 {
-    font-size: 24px;
-    margin-bottom: 20px;
-}
-
-#skills ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-#skills ul li {
-    margin-bottom: 10px;
-}
